@@ -1,1 +1,2 @@
-# This repo is used to store regular exercises (data structure implementation in Java) of course CPT204
+# 
+This repo is used to store regular exercises (data structure implementation in Java) of course CPT204
